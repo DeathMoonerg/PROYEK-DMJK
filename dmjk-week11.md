@@ -828,12 +828,6 @@ Building configuration...
 [OK]
 ```
 ### Penjelasan Detail
-Berikut penjelasan ulang berdasarkan format yang kamu inginkan untuk **Main Switch Router B**:
-
----
-
-### Penjelasan Detail
-
 #### Pembuatan VLAN
 VLAN digunakan untuk memisahkan jaringan berdasarkan divisi agar lebih terstruktur dan aman. Berikut VLAN yang dibuat:
 - **VLAN 50**: Marketing
